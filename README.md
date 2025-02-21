@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://coffee-tracker-zeta.vercel.app/](https://coffee-tracker-zeta.vercel.app/)
 
-- 📝 I regularly write articles on [https://coffee-tracker-zeta.vercel.app/](https://coffee-tracker-zeta.vercel.app/)
-
 - 📫 How to reach me **rohannk99999@gmail.com**
 
 - 📄 Know about my experiences [https://coffee-tracker-zeta.vercel.app/](https://coffee-tracker-zeta.vercel.app/)
