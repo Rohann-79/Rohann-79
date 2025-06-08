@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at : [(https://portfolio-my-ashen-theta.vercel.app/)](https://portfolio-my-ashen-theta.vercel.app/)
 
-- 📫 How to reach me **rohannkeerth@gmail.com**
+- 📫 How to reach me **rohann.keerth@gmail.com**
 
-- 📄 Know about my experiences [([https://drive.google.com/file/d/1OPaViwm2hbHGn_v1BIjXyN4AA_uuDTH0/view)](https://drive.google.com/file/d/1OPaViwm2hbHGn_v1BIjXyN4AA_uuDTH0/view)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1ZNAQjOt4ldVxEbU6ZI5vDDU_euJ4vjra/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
