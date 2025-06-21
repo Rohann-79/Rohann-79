@@ -23,7 +23,7 @@ Let’s connect and build something awesome together!
 
 📫 **Reach Me At**  
 - 📧 Email: [rohann.keerth@gmail.com](mailto:rohann.keerth@gmail.com)  
-- 🌐 Portfolio: [rohann.vercel.app]((https://portfolio-update-beige.vercel.app/))  
+- 🌐 Portfolio: [rohann.vercel.app](https://portfolio-update-beige.vercel.app/)  
 - 📄 [View Resume](https://drive.google.com/file/d/1ZNAQjOt4ldVxEbU6ZI5vDDU_euJ4vjra/view)
 
 ---
